@@ -1,15 +1,13 @@
 name,ring,quadrant,isNew,description
 Threat modeling,ADOPT,Techniques,FALSE,No contents
 Future proof software development,ADOPT,Techniques,FALSE,No contents
-SOLID,ADOPT,Techniques,FALSE,No contents
 Shift left,ADOPT,Techniques,FALSE,No contents
-Clean Code,ADOPT,Techniques,FALSE,No contents
-Domain Driven Design,ADOPT,Techniques,FALSE,No contents
+Clean Code & SOLID,ADOPT,Techniques,FALSE,No contents
+Domain Driven Design,GET FAMILIAR,Techniques,FALSE,No contents
 Infrastructure as code,ADOPT,Techniques,TRUE,No contents
 EventStorming,GET FAMILIAR,Techniques,FALSE,No contents
-Cloud Native,GET FAMILIAR,Techniques,FALSE,No contents
-Cloud Agnostic,GET FAMILIAR,Techniques,FALSE,No contents
-DevSecOps,GET FAMILIAR,Techniques,TRUE,No contents
+Cloud Ready,GET FAMILIAR,Techniques,FALSE,No contents
+DevSecOps,ADOPT,Techniques,TRUE,No contents
 NoSQL,INVESTIGATE,Techniques,FALSE,No contents
 Evidence based management,INVESTIGATE,Techniques,TRUE,No contents
 Azure DevOps,ADOPT,Platforms,FALSE,No contents
@@ -43,3 +41,5 @@ Blazor,GET FAMILIAR,languages-and-frameworks,TRUE,No contents
 React Native,INVESTIGATE,languages-and-frameworks,FALSE,No contents
 NET MAUI,INVESTIGATE,languages-and-frameworks,TRUE,No contents
 .NET Framework 4.8,WARNING,languages-and-frameworks,FALSE,No contents
+Agile in name only,WARNING,Techniques,NEW,No contents
+Hybride werken,ADOPT,Techniques,NEW,No contents
