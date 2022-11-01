@@ -1,45 +1,45 @@
-name;ring;quadrant;isNew;description
-Threat modeling;ADOPT;Techniques;FALSE;No contents
-Future proof software development;ADOPT;Techniques;FALSE;No contents
-Shift left;ADOPT;Techniques;FALSE;No contents
-Clean Code & SOLID;ADOPT;Techniques;FALSE;No contents
-Infrastructure as code;ADOPT;Techniques;TRUE;No contents
-DevSecOps;ADOPT;Techniques;TRUE;No contents
-Hybride werken;ADOPT;Techniques;NEW;No contents
-EventStorming;GET FAMILIAR;Techniques;FALSE;No contents
-Domain Driven Design;GET FAMILIAR;Techniques;FALSE;No contents
-Cloud Ready;GET FAMILIAR;Techniques;FALSE;No contents
-NoSQL;INVESTIGATE;Techniques;FALSE;No contents
-Evidence based management;INVESTIGATE;Techniques;TRUE;No contents
-Agile in name only;WARNING;Techniques;NEW;No contents
-Azure DevOps;ADOPT;Platforms;FALSE;No contents
-Infrastructure as code;ADOPT;Platforms;TRUE;No contents
-Kubernetes;GET FAMILIAR;Platforms;FALSE;No contents
-Docker;GET FAMILIAR;Platforms;FALSE;No contents
-AKS;GET FAMILIAR;Platforms;FALSE;No contents
-Azure functions;INVESTIGATE;Platforms;FALSE;No contents
-IoT;INVESTIGATE;Platforms;FALSE;No contents
-Progressive WebApps;INVESTIGATE;Platforms;FALSE;No contents
-Low code solutions;INVESTIGATE;Platforms;TRUE;No contents
-Git;ADOPT;Tools;FALSE;No contents
-OpenID Connect;ADOPT;Tools;FALSE;No contents
-Automated integrity checks;ADOPT;Tools;FALSE;No contents
-Automated UI tests;ADOPT;Tools;TRUE;No contents
-Dependabot;GET FAMILIAR;Tools;FALSE;No contents
-Helm;GET FAMILIAR;Tools;FALSE;No contents
-SignalR;GET FAMILIAR;Tools;FALSE;No contents
-CosmosDB;INVESTIGATE;Tools;FALSE;No contents
-AKKA.net;INVESTIGATE;Tools;FALSE;No contents
-DAPR;INVESTIGATE;Tools;FALSE;No contents
-C# 10;ADOPT;languages-and-frameworks;TRUE;No contents
-.NET 6;ADOPT;languages-and-frameworks;TRUE;No contents
-Xunit;ADOPT;languages-and-frameworks;FALSE;No contents
-Specflow;ADOPT;languages-and-frameworks;FALSE;No contents
-Typescript development;GET FAMILIAR;languages-and-frameworks;TRUE;No contents
-GraphQL;GET FAMILIAR;languages-and-frameworks;FALSE;No contents
-Python;GET FAMILIAR;languages-and-frameworks;FALSE;No contents
-gRPC;GET FAMILIAR;languages-and-frameworks;TRUE;No contents
-Blazor;GET FAMILIAR;languages-and-frameworks;TRUE;No contents
-React Native;INVESTIGATE;languages-and-frameworks;FALSE;No contents
-NET MAUI;INVESTIGATE;languages-and-frameworks;TRUE;No contents
-.NET Framework 4.8;WARNING;languages-and-frameworks;FALSE;No contents
+name,ring,quadrant,isNew,description
+Threat modeling,ADOPT,Techniques,FALSE,No contents
+Future proof software development,ADOPT,Techniques,FALSE,No contents
+Shift left,ADOPT,Techniques,FALSE,No contents
+Clean Code & SOLID,ADOPT,Techniques,FALSE,No contents
+Infrastructure as code,ADOPT,Techniques,TRUE,No contents
+DevSecOps,ADOPT,Techniques,TRUE,No contents
+Hybride werken,ADOPT,Techniques,NEW,No contents
+EventStorming,GET FAMILIAR,Techniques,FALSE,No contents
+Domain Driven Design,GET FAMILIAR,Techniques,FALSE,No contents
+Cloud Ready,GET FAMILIAR,Techniques,FALSE,No contents
+NoSQL,INVESTIGATE,Techniques,FALSE,No contents
+Evidence based management,INVESTIGATE,Techniques,TRUE,No contents
+Agile in name only,WARNING,Techniques,NEW,No contents
+Azure DevOps,ADOPT,Platforms,FALSE,No contents
+Infrastructure as code,ADOPT,Platforms,TRUE,No contents
+Kubernetes,GET FAMILIAR,Platforms,FALSE,No contents
+Docker,GET FAMILIAR,Platforms,FALSE,No contents
+AKS,GET FAMILIAR,Platforms,FALSE,No contents
+Azure functions,INVESTIGATE,Platforms,FALSE,No contents
+IoT,INVESTIGATE,Platforms,FALSE,No contents
+Progressive WebApps,INVESTIGATE,Platforms,FALSE,No contents
+Low code solutions,INVESTIGATE,Platforms,TRUE,No contents
+Git,ADOPT,Tools,FALSE,No contents
+OpenID Connect,ADOPT,Tools,FALSE,No contents
+Automated integrity checks,ADOPT,Tools,FALSE,No contents
+Automated UI tests,ADOPT,Tools,TRUE,No contents
+Dependabot,GET FAMILIAR,Tools,FALSE,No contents
+Helm,GET FAMILIAR,Tools,FALSE,No contents
+SignalR,GET FAMILIAR,Tools,FALSE,No contents
+CosmosDB,INVESTIGATE,Tools,FALSE,No contents
+AKKA.net,INVESTIGATE,Tools,FALSE,No contents
+DAPR,INVESTIGATE,Tools,FALSE,No contents
+C# 10,ADOPT,languages-and-frameworks,TRUE,No contents
+.NET 6,ADOPT,languages-and-frameworks,TRUE,No contents
+Xunit,ADOPT,languages-and-frameworks,FALSE,No contents
+Specflow,ADOPT,languages-and-frameworks,FALSE,No contents
+Typescript development,GET FAMILIAR,languages-and-frameworks,TRUE,No contents
+GraphQL,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
+Python,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
+gRPC,GET FAMILIAR,languages-and-frameworks,TRUE,No contents
+Blazor,GET FAMILIAR,languages-and-frameworks,TRUE,No contents
+React Native,INVESTIGATE,languages-and-frameworks,FALSE,No contents
+NET MAUI,INVESTIGATE,languages-and-frameworks,TRUE,No contents
+.NET Framework 4.8,WARNING,languages-and-frameworks,FALSE,No contents
