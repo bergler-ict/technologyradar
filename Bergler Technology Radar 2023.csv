@@ -26,6 +26,7 @@ Microsoft Power Platform,INVESTIGATE,Platforms,FALSE,No contents
 IoT,INVESTIGATE,Platforms,FALSE,No contents
 Lokale TFS server,WARNING,Platforms,FALSE,No contents
 Git,ADOPT,Tools,FALSE,No contents
+Infrastructure as code,ADOPT,Tools,FALSE,No contents
 SAST (Sonarqube),ADOPT,Tools,FALSE,No contents
 DAST (Whitesource / Tenable),ADOPT,Tools,FALSE,No contents
 Dependabot,GET FAMILIAR,Tools,FALSE,No contents
