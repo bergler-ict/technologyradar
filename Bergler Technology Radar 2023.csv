@@ -13,37 +13,42 @@ Messaging,GET FAMILIAR,Techniques,FALSE,No contents
 Evidence based management,INVESTIGATE,Techniques,FALSE,No contents
 Liberating structures,INVESTIGATE,Techniques,FALSE,No contents
 Agile in name only,WARNING,Techniques,FALSE,No contents
-Azure DevOps / GitHub,ADOPT,Platforms,FALSE,No contents
+Azure DevOps,ADOPT,Platforms,FALSE,No contents
 Application Insights / monitoring,ADOPT,Platforms,FALSE,No contents 
 Kubernetes & AKS,GET FAMILIAR,Platforms,FALSE,No contents
 Azure Container Apps,GET FAMILIAR,Platforms,FALSE,No contents
 Azure Service Bus,GET FAMILIAR,Platforms,FALSE,No contents
-Azure,GET FAMILIAR,Platforms,FALSE,No contents
+Azure (certificeringen),GET FAMILIAR,Platforms,FALSE,No contents
 Docker,GET FAMILIAR,Platforms,FALSE,No contents
 Azure functions,INVESTIGATE,Platforms,FALSE,No contents
 GitHub (actions),INVESTIGATE,Platforms,FALSE,No contents
 Microsoft Power Platform,INVESTIGATE,Platforms,FALSE,No contents
 IoT,INVESTIGATE,Platforms,FALSE,No contents
+Lokale TFS server,WARNING,Platforms,FALSE,No contents
 Git,ADOPT,Tools,FALSE,No contents
-OpenID Connect,ADOPT,Tools,FALSE,No contents
-Automated integrity checks,ADOPT,Tools,FALSE,No contents
-Automated UI tests,ADOPT,Tools,FALSE,No contents
+SAST (Sonarqube),ADOPT,Tools,FALSE,No contents
+DAST (Whitesource / Tenable),ADOPT,Tools,FALSE,No contents
 Dependabot,GET FAMILIAR,Tools,FALSE,No contents
+Azure Data Studio,GET FAMILIAR,Tools,FALSE,No contents
 Helm,GET FAMILIAR,Tools,FALSE,No contents
-SignalR,GET FAMILIAR,Tools,FALSE,No contents
+DAPR,GET FAMILIAR,Tools,FALSE,No contents
 CosmosDB,INVESTIGATE,Tools,FALSE,No contents
-AKKA.net,INVESTIGATE,Tools,FALSE,No contents
-DAPR,INVESTIGATE,Tools,FALSE,No contents
-C# 10,ADOPT,languages-and-frameworks,FALSE,No contents
+NX,INVESTIGATE,Tools,FALSE,No contents
+Web Test Runner,INVESTIGATE,Tools,FALSE,No contents
+Identity Server 4,WARNING,Tools,FALSE,No contents
+C#,ADOPT,languages-and-frameworks,FALSE,No contents
 .NET 6,ADOPT,languages-and-frameworks,FALSE,No contents
 Xunit,ADOPT,languages-and-frameworks,FALSE,No contents
 Specflow,ADOPT,languages-and-frameworks,FALSE,No contents
+OpenID Connect,ADOPT,languages-and-frameworks,FALSE,No contents
 Typescript development,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
 GraphQL,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
 Python,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
 gRPC,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
+Azure Bicep,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
+SignalR,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
 Blazor,GET FAMILIAR,languages-and-frameworks,FALSE,No contents
-React Native,INVESTIGATE,languages-and-frameworks,FALSE,No contents
 NET MAUI,INVESTIGATE,languages-and-frameworks,FALSE,No contents
 Progressive WebApps,INVESTIGATE,languages-and-frameworks,FALSE,No contents
 .NET Framework 4.8,WARNING,languages-and-frameworks,FALSE,No contents
+Xamarin,WARNING,languages-and-frameworks,FALSE,No contents
